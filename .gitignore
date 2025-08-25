@@ -1,0 +1,11 @@
+# macOS özel dosyaları
+.DS_Store
+
+# Python ile ilgili dosyalar (genellikle görmezden gelinir)
+__pycache__/
+*.pyc
+
+# Sanal ortam dosyaları
+venv/
+.venv/
+
